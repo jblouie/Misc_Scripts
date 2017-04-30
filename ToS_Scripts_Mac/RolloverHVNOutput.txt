@@ -1,0 +1,136 @@
+#Found and replaced all numbers with specified number
+#
+
+#LL HVNs
+
+plot Line26 = 2375.5;
+Line26.SetDefaultColor(Color.magenta);
+Line26.SetLineWeight(3);
+Line26.SetStyle(Curve.SHORT_DASH);
+
+
+plot Line25 = 2357.0;
+Line25.SetDefaultColor(Color.magenta);
+Line25.SetLineWeight(3);
+Line25.SetStyle(Curve.SHORT_DASH);
+
+plot Line24 = 2355.25;
+Line24.SetDefaultColor(Color.magenta);
+Line24.SetLineWeight(3);
+Line24.SetStyle(Curve.SHORT_DASH);
+
+plot Line23 = 2317.75;
+Line23.SetDefaultColor(Color.magenta);
+Line23.SetLineWeight(3);
+Line23.SetStyle(Curve.SHORT_DASH);
+
+plot Line22 = 2286.75;
+Line22.SetDefaultColor(Color.magenta);
+Line22.SetLineWeight(3);
+Line22.SetStyle(Curve.SHORT_DASH);
+
+
+plot Line20 = 2283.75;
+Line20.SetDefaultColor(Color.magenta);
+Line20.SetLineWeight(3);
+Line20.SetStyle(Curve.SHORT_DASH);
+
+plot Line21 = 2270.5;
+Line21.SetDefaultColor(Color.magenta);
+Line21.SetLineWeight(3);
+Line21.SetStyle(Curve.SHORT_DASH);
+
+plot Line17 = 2261.25;
+Line17.SetDefaultColor(Color.magenta);
+Line17.SetLineWeight(3);
+Line17.SetStyle(Curve.SHORT_DASH);
+
+plot Line19 = 2259.25;
+Line19.SetDefaultColor(Color.magenta);
+Line19.SetLineWeight(3);
+Line19.SetStyle(Curve.SHORT_DASH);
+
+plot Line18 = 2252.0;
+Line18.SetDefaultColor(Color.magenta);
+Line18.SetLineWeight(3);
+Line18.SetStyle(Curve.SHORT_DASH);
+
+plot Line1 = 2194.75;
+Line1.SetDefaultColor(Color.magenta);
+Line1.SetLineWeight(3);
+Line1.SetStyle(Curve.SHORT_DASH);
+
+plot Line2 = 2180.0;
+Line2.SetDefaultColor(Color.magenta);
+Line2.SetLineWeight(3);
+Line2.SetStyle(Curve.SHORT_DASH);
+
+plot Line3 = 2168.75;
+Line3.SetDefaultColor(Color.magenta);
+Line3.SetLineWeight(3);
+Line3.SetStyle(Curve.SHORT_DASH);
+
+plot Line4 = 2156.5;
+Line4.SetDefaultColor(Color.magenta);
+Line4.SetLineWeight(3);
+Line4.SetStyle(Curve.SHORT_DASH);
+
+plot Line5 = 2148.5;
+Line5.SetDefaultColor(Color.magenta);
+Line5.SetLineWeight(3);
+Line5.SetStyle(Curve.SHORT_DASH);
+
+plot Line6 = 2142.0;
+Line6.SetDefaultColor(Color.magenta);
+Line6.SetLineWeight(3);
+Line6.SetStyle(Curve.SHORT_DASH);
+
+plot Line7 = 2136.5;
+Line7.SetDefaultColor(Color.magenta);
+Line7.SetLineWeight(3);
+Line7.SetStyle(Curve.SHORT_DASH);
+
+plot Line8 = 2131.0;
+Line8.SetDefaultColor(Color.magenta);
+Line8.SetLineWeight(3);
+Line8.SetStyle(Curve.SHORT_DASH);
+
+plot Line9 = 2128.5;
+Line9.SetDefaultColor(Color.magenta);
+Line9.SetLineWeight(3);
+Line9.SetStyle(Curve.SHORT_DASH);
+
+plot Line10 = 2114.5;
+Line10.SetDefaultColor(Color.magenta);
+Line10.SetLineWeight(3);
+Line10.SetStyle(Curve.SHORT_DASH);
+
+plot Line11 = 2094.75;
+Line11.SetDefaultColor(Color.magenta);
+Line11.SetLineWeight(3);
+Line11.SetStyle(Curve.SHORT_DASH);
+
+plot Line12 = 2094.0;
+Line12.SetDefaultColor(Color.magenta);
+Line12.SetLineWeight(3);
+Line12.SetStyle(Curve.SHORT_DASH);
+
+plot Line13 = 2076.5;
+Line13.SetDefaultColor(Color.magenta);
+Line13.SetLineWeight(3);
+Line13.SetStyle(Curve.SHORT_DASH);
+
+plot Line14 = 2068.5;
+Line14.SetDefaultColor(Color.magenta);
+Line14.SetLineWeight(3);
+Line14.SetStyle(Curve.SHORT_DASH);
+
+plot Line15 = 2035.5;
+Line15.SetDefaultColor(Color.magenta);
+Line15.SetLineWeight(3);
+Line15.SetStyle(Curve.SHORT_DASH);
+
+plot Line16 = 2025.0;
+Line16.SetDefaultColor(Color.magenta);
+Line16.SetLineWeight(3);
+Line16.SetStyle(Curve.SHORT_DASH);
